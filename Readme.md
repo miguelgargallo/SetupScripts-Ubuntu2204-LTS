@@ -1,4 +1,6 @@
 # Linux Server Hardcore Setup by Miguel Gargallo
+
+```
 ├── 001_5_basics
 │   ├── 001_Update.sh
 │   ├── 002_Software.sh
@@ -75,3 +77,4 @@
     └── 030_Regular_Software_Updates.sh
 
 Directories: 7, Files: 67
+```
